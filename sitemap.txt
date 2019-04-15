@@ -1,8 +1,8 @@
 
-https://sylvaingchassang.github.io/chassang.github.io//academic_website/feed.xml
-https://sylvaingchassang.github.io/chassang.github.io//academic_website/
-https://sylvaingchassang.github.io/chassang.github.io//academic_website/css/main.css
-https://sylvaingchassang.github.io/chassang.github.io//academic_website/research/
-https://sylvaingchassang.github.io/chassang.github.io//academic_website/sitemap.txt
-https://sylvaingchassang.github.io/chassang.github.io//academic_website/white_papers/
+https://sylvaingchassang.github.io/chassang.github.io/https://sylvaingchassang.github.io/chassang.github.io//feed.xml
+https://sylvaingchassang.github.io/chassang.github.io/https://sylvaingchassang.github.io/chassang.github.io//
+https://sylvaingchassang.github.io/chassang.github.io/https://sylvaingchassang.github.io/chassang.github.io//css/main.css
+https://sylvaingchassang.github.io/chassang.github.io/https://sylvaingchassang.github.io/chassang.github.io//research/
+https://sylvaingchassang.github.io/chassang.github.io/https://sylvaingchassang.github.io/chassang.github.io//sitemap.txt
+https://sylvaingchassang.github.io/chassang.github.io/https://sylvaingchassang.github.io/chassang.github.io//white_papers/
 
