@@ -1,8 +1,8 @@
 
-https://www.nyu.edu/projects/chassang//academic_website/feed.xml
-https://www.nyu.edu/projects/chassang//academic_website/
-https://www.nyu.edu/projects/chassang//academic_website/css/main.css
-https://www.nyu.edu/projects/chassang//academic_website/research/
-https://www.nyu.edu/projects/chassang//academic_website/sitemap.txt
-https://www.nyu.edu/projects/chassang//academic_website/white_papers/
+https://sylvaingchassang.github.io/chassang.github.io//academic_website/feed.xml
+https://sylvaingchassang.github.io/chassang.github.io//academic_website/
+https://sylvaingchassang.github.io/chassang.github.io//academic_website/css/main.css
+https://sylvaingchassang.github.io/chassang.github.io//academic_website/research/
+https://sylvaingchassang.github.io/chassang.github.io//academic_website/sitemap.txt
+https://sylvaingchassang.github.io/chassang.github.io//academic_website/white_papers/
 
