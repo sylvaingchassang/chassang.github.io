@@ -5,4 +5,5 @@ https://www.sylvainchassang.orghttps://www.sylvainchassang.org/css/main.css
 https://www.sylvainchassang.orghttps://www.sylvainchassang.org/research/
 https://www.sylvainchassang.orghttps://www.sylvainchassang.org/sitemap.txt
 https://www.sylvainchassang.orghttps://www.sylvainchassang.org/white_papers/
+https://www.sylvainchassang.orghttps://www.sylvainchassang.org/css/main.css.map
 
