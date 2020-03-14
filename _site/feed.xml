@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sylvain Chassang</title>
+    <description>Sylvain Chassang | Professor of Economics | NYU &amp; NBER</description>
+    <link>http://localhost:4000/workspace/academic_website/</link>
+    <atom:link href="http://localhost:4000/workspace/academic_website/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 17 Dec 2019 15:03:19 -0500</pubDate>
+    <lastBuildDate>Tue, 17 Dec 2019 15:03:19 -0500</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
+    
+  </channel>
+</rss>

@@ -3,13 +3,13 @@
 	"file": "main.css",
 	"sources": [
 		"main.scss",
-		"workspace/academic_website/_sass/_header.scss",
-		"workspace/academic_website/_sass/_mobile-header.scss",
-		"workspace/academic_website/_sass/_base.scss",
-		"workspace/academic_website/_sass/_footer.scss",
-		"workspace/academic_website/_sass/_page.scss",
-		"workspace/academic_website/_sass/_syntax-highlighting.scss",
-		"workspace/academic_website/_sass/_fancy-image.scss"
+		"_sass/_header.scss",
+		"_sass/_mobile-header.scss",
+		"_sass/_base.scss",
+		"_sass/_footer.scss",
+		"_sass/_page.scss",
+		"_sass/_syntax-highlighting.scss",
+		"_sass/_fancy-image.scss"
 	],
 	"sourcesContent": [
 		"@charset \"utf-8\";\n\n$base-font-family: 'EB Garamond', serif;\n$base-font-size:   1.3em;\n$small-font-size:  0.875em;\n$vsmall-font-size: 0.66em;\n$base-line-height: 1.2;\n$spacing-unit:     1.5em;\n\n$grey-vlight:#f2f2f2;\n$grey-light: #ccc;\n$grey:       #6d6d6d;\n$grey-dark:  #444;\n$grey-vdark: #222;\n$blue:       #0091ed;\n$orange:     #ca6c18;\n$red:        #b6321c;\n$white: #FFFFFF;\n$black: #000000;\n$nyu_purple: #57068c;\n\n$background:        #D1D0D6;\n$background_purple: $nyu_purple;\n$dark-background:   darken($background, 5%);\n$text-color:        $black;\n$text-dark: $black;\n$text-light-color:  $black;\n$url-color:         $red;\n$url-hover-color:   $orange;\n$header-text-color: $black;\n$header-hover-color:$text-color;\n$header-hover-url:  $url-color;\n$line-color:        $grey-light;\n\n// Width of the content area\n$content-width:    50em;\n$content-min-width:15em;\n$mobile:           32em;\n$desktop:          50em;\n\n@mixin media-query($device) {\n    @media screen and (max-width: $device) {\n        @content;\n    }\n}\n\n.text-justify {\n  text-align: justify;\n}\n\n\n// Import partials from `sass_dir` (defaults to `_sass`)\n@import\n    \"header\",\n    \"mobile-header\",\n    \"base\",\n    \"footer\",\n    \"page\",\n    \"syntax-highlighting\",\n    \"fancy-image\"\n;\n",
