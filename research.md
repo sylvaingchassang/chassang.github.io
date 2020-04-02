@@ -4,6 +4,19 @@ permalink: /research/
 title: Research
 working_papers: 
 
+    - title:   "Screening Adaptive Cartels"
+      coauthors:  
+        - k_kawai
+        - j_nakabayashi
+        - j_ortner
+      year:  2020
+      internal: True
+      url:   "/assets/papers/screening_adaptive_cartels.pdf"
+      note: "We propose a theory of equilibrium antitrust oversight in which: (i) regulators
+      launch investigations on the basis of suspicious bidding patters; (ii) cartels can adapt
+      to the statistical screens used by regulators, and may in fact use
+      them to enforce cartel compliance."
+
     - title:   "Secure Survey Design in Organizations: Theory and Experiments"
       coauthors:
         - c_zehnder
@@ -17,7 +30,7 @@ working_papers:
       non-secure direct elicitation. Hard garbling provide durable 
       improvements in information transmission."
 
-    - title:   "Data Driven Regulation: Theory and Application to Missing 
+    - title:   "Data Driven Antitrust: Theory and Application to Missing 
     Bids"
       coauthors:  
         - k_kawai
@@ -26,7 +39,7 @@ working_papers:
       year:  2019
       journal: "R&R, Econometrica"
       internal: True
-      url:   "/assets/papers/data_driven_regulation.pdf"
+      url:   "/assets/papers/data_driven_antitrust.pdf"
       note: "We document a novel bidding pattern observed in procurement 
       auctions from Japan: winning bids tend to be isolated. There is a 
       missing mass of close losing bids. This pattern is suspicious in the 
