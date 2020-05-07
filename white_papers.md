@@ -39,7 +39,10 @@ white_papers:
       companies reduce finacial risk for both parties, while 
       improving incentives for innovation."
       
-      
+    - title:   "Celestial Mechanics with Scratch: A Course for Incredibly Ambitious Kids" 
+      url: "/assets/papers/celestial_mechanics.pdf"
+      internal: True
+      year: 2020
       
 ---
 <br>
