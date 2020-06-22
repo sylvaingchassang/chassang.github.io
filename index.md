@@ -5,7 +5,8 @@ permalink: /
 ---
 <br> <br>
 
-{% include image.html url="images/photo.jpg" caption="" width="500px" align="left" %}
+{% include image.html url="images/photo_cropped.jpg" caption="" width="500px
+" align="left" %}
 
 
 Sylvain Chassang [[CV]]<br />
