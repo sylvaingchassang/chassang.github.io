@@ -169,6 +169,7 @@ pubs:
       the probability with which patients are in the control vs treatment group 
       has an impact on measured treatment effect and standard RCTs can 
       be improved on."
+      supp: "/assets/papers/cost_two_by_two_blind_trials.pdf"
       
     - url: "/assets/papers/calibrated_contracts.pdf"
       internal: True

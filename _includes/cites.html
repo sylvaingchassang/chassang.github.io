@@ -8,6 +8,8 @@
          author_data.name}}]({{
          author_data.web}}),{% endfor %}
       {% endif %}{% if pub.journal %}*{{pub.journal}},* {% endif
-%}{{pub.year}} {% if pub.repo %} [[repo]({{pub.repo}})]{% endif %}
+%}{{pub.year}} {% if pub.repo %} [[repo]({{pub.repo}})]{% endif %} {% if
+pub.supp %} [[supplementary materials]({{pub.supp | prepend:
+      site.baseurl}})]{% endif %}
       {: style="margin-top:0px"}
 {% endfor %}
