@@ -44,6 +44,14 @@ white_papers:
       internal: True
       year: 2020
       
+    - title: "Encouraging Workers to Self-Report Exposition to COVID19"
+      url: "/assets/papers/covid_stigma.pdf"
+      coauthors:
+        - l_boudreau
+      internal: True
+      year: 2020
+      supp: "/assets/papers/random_rotation_implementation_tools.zip"
+      
 ---
 <br>
 ## White Papers 
