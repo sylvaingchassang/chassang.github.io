@@ -4,6 +4,20 @@ permalink: /research/
 title: Research
 working_papers: 
 
+    - title:   "Using Bid Rotation and Incumbency to Detect Collusion: A
+     Regression Discontinuity Approach"
+      coauthors:  
+        - k_kawai
+        - j_nakabayashi
+        - j_ortner
+      year:  2020
+      internal: True
+      url:   "/assets/papers/regression_discontinuity.pdf"
+      note: "Cartels participating in procurement auctions frequently use
+       bid rotation or incumbency priority to allocate market shares. However, establishing a tight link between observed allocation patterns and firm conduct has been difficult: there are cost-based
+         competitive explanations for such behavior. We show that by
+          focusing on the set of auctions in which the winning and losing bids are very close, it is possible to distinguish allocation patterns reflecting cost differences across firms from patterns reflecting non-competitive behavior. We apply our tests to two datasets: the sample of Ohio school milk auctions studied in Porter and Zona (1999), and a sample of municipal procurement auctions held in Japan."
+
     - title:   "Screening Adaptive Cartels"
       coauthors:  
         - k_kawai

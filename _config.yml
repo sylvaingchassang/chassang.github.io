@@ -1,5 +1,5 @@
 title: Sylvain Chassang
-description: Sylvain Chassang | Professor of Economics | NYU & NBER
+description: Sylvain Chassang | Professor of Economics | Princeton & NBER
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
