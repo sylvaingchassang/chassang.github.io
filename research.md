@@ -4,6 +4,15 @@ permalink: /research/
 title: Research
 working_papers: 
 
+    - title:   "The Cost of Imbalance in Clinical Trials"
+      coauthors:  
+        - r_feng
+      journal: "R&R, Journal of Health Economics"
+      year:  2020
+      internal: True
+      url:   "/assets/papers/trial_balance.pdf"
+      note: "This paper seeks to measure the cost of imbalance with respect to gender in a sample of roughly 2000 clinical studies. We document significant imbalance: 25% of experiments have at least 26% more men in one treatment arm than in the other. In addition, clinical trials with greater imbalance have more dispersed treatment effects, indicating that imbalance reduces the informativeness of experiments. A simple structural model suggests that for a typical experiment, using a balanced random design could deliver informativeness gains equivalent to increasing the sample size by 18%."
+      
     - title:   "Using Bid Rotation and Incumbency to Detect Collusion: A
      Regression Discontinuity Approach"
       coauthors:  
