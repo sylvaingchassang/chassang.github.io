@@ -51,7 +51,7 @@ white_papers:
       internal: True
       year: 2020
       supp: "/assets/papers/random_rotation_implementation_tools.zip"
-      coverage: [Harvard Business Review](https://hbr.org/2020/08/how-to-get-employees-to-report-their-covid-19-risk)
+      coverage: "[Harvard Business Review](https://hbr.org/2020/08/how-to-get-employees-to-report-their-covid-19-risk)"
       
 ---
 <br>
