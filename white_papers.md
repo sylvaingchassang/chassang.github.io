@@ -55,6 +55,9 @@ white_papers:
       
     - title: "Opportunities for New PhD Economists, 2021"
       url: "/assets/papers/opportunities_for_economists_2021.pdf"
+      coauthors:
+        - p_dupas
+        - b_golub
       internal: True
       year: 2020
       supp: "/assets/papers/random_rotation_implementation_toolsopportunities_for_economists_2021_discussion.pdf"
