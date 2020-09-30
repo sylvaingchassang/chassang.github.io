@@ -74,3 +74,9 @@ r_feng:
 s_kapon:
     name: Sam Kapon
     web: https://www.linkedin.com/in/sam-kapon-892b5a66/
+p_dupas:
+    name: Pascaline Dupas
+    web: https://web.stanford.edu/~pdupas/
+b_golub:
+    name: Ben Golub
+    web: http://bengolub.net/

@@ -53,6 +53,15 @@ white_papers:
       supp: "/assets/papers/random_rotation_implementation_tools.zip"
       coverage: "[Harvard Business Review](https://hbr.org/2020/08/how-to-get-employees-to-report-their-covid-19-risk)"
       
+      - title: "Opportunities for New PhD Economists, 2021"
+      url: "/assets/papers/opportunities_for_economists_2021.pdf"
+      coauthors:
+        - p_dupas
+        -b_golub
+      internal: True
+      year: 2020
+      supp: "/assets/papers/random_rotation_implementation_toolsopportunities_for_economists_2021_discussion.pdf"
+      
 ---
 <br>
 ## White Papers 
