@@ -60,7 +60,7 @@ white_papers:
         - b_golub
       internal: True
       year: 2020
-      supp: "/assets/papers/random_rotation_implementation_toolsopportunities_for_economists_2021_discussion.pdf"
+      supp: "/assets/papers/opportunities_for_economists_2021_discussion.pdf"
       
 ---
 <br>
