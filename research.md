@@ -92,6 +92,7 @@ pubs:
       year:  forthcoming
       journal: "Econometrica"
       internal: True
+      repo: https://github.com/sylvaingchassang/missing_bids
       url:   "/assets/papers/missing_bids.pdf"
       note: "We document a novel bidding pattern observed in procurement auctions from Japan: winning bids tend to be isolated, and there is a missing mass of close losing bids. This pattern is suspicious in the following sense: its extreme forms are inconsistent with competitive behavior under arbitrary information structures. Building on this observation, we develop systematic tests of competitive behavior in procurement auctions that allow for general information structures as well as non-stationary unobserved heterogeneity. We provide an empirical exploration of our tests, and show they can help identify other suspicious patterns in the data."
       
