@@ -71,22 +71,6 @@ working_papers:
       non-secure direct elicitation. Hard garbling provide durable 
       improvements in information transmission."
 
-    - title:   "Data Driven Antitrust: Theory and Application to Missing 
-    Bids"
-      coauthors:  
-        - k_kawai
-        - j_nakabayashi
-        - j_ortner
-      year:  2019
-      journal: "R&R, Econometrica"
-      internal: True
-      url:   "/assets/papers/data_driven_antitrust.pdf"
-      note: "We document a novel bidding pattern observed in procurement 
-      auctions from Japan: winning bids tend to be isolated. There is a 
-      missing mass of close losing bids. This pattern is suspicious in the 
-      following sense: it is inconsistent with competitive behavior under 
-      arbitrary information structures. Building on this observation, we develop a theory of data-driven regulation based on “safe tests."
-      
     - title: "Data-Driven Incentive Alignment in Capitation Schemes"  
       coauthors: 
         - m_braverman
@@ -99,7 +83,18 @@ working_papers:
       and  non-manipulable  ex  post  estimates  of  a  private provider’s gains from selection."
 
 pubs:
-          
+
+    - title:  "Robust Screens for Non-Competitive Bidding in Procurement Auctions"
+      coauthors:  
+        - k_kawai
+        - j_nakabayashi
+        - j_ortner
+      year:  forthcoming
+      journal: "Econometrica"
+      internal: True
+      url:   "/assets/papers/missing_bids.pdf"
+      note: "We document a novel bidding pattern observed in procurement auctions from Japan: winning bids tend to be isolated, and there is a missing mass of close losing bids. This pattern is suspicious in the following sense: its extreme forms are inconsistent with competitive behavior under arbitrary information structures. Building on this observation, we develop systematic tests of competitive behavior in procurement auctions that allow for general information structures as well as non-stationary unobserved heterogeneity. We provide an empirical exploration of our tests, and show they can help identify other suspicious patterns in the data."
+      
     - title:   "A Theory of Experimenters: Robustness, Randomization, and Balance" 
       coauthors:
         - a_banerjee
