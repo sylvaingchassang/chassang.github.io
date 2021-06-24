@@ -18,6 +18,7 @@ working_papers:
       coauthors:  
         - s_kapon
       year:  2020
+      journal: "R&R, Theoretical Economics"
       internal: True
       url:   "/assets/papers/limited_liability_allocation.pdf"
       note: "A principal seeks to efficiently allocate a productive public resource to a number of possible users. Vickrey-Clarke-Groves (VCG) mechanisms provide a detail-free way to do so provided users have deep pockets. In practice however, users may have limited resources. We study a dynamic allocation problem in which participants have limited liability: transfers are made ex post, and only if the productive efforts of participants are successful. We show that it is possible to approximate the performance of VCG using limited liability detail-free mechanisms that selectively ignore reports from participants who cannot make their promised payments. We emphasize the use of prior-free online optimization techniques to approximate aggregate incentive properties of VCG."
@@ -62,6 +63,7 @@ working_papers:
       coauthors:
         - c_zehnder
       year:  2019
+      journal: "R&R, The Economic Journal"
       internal: True
       url:   "/assets/papers/secure_survey_design.pdf"
       note: "We evaluate secure survey design techniques seeking to improve 
@@ -75,6 +77,7 @@ working_papers:
       coauthors: 
         - m_braverman
       year: 2020
+      journal: "R&R, Journal of Public Economics"
       internal: True
       url:   "/assets/papers/strategic_capitation.pdf"
       note: "We ask whether Big Data, can reduce the cost of adverse selection in government-run capitation schemes.  
