@@ -13,16 +13,6 @@ working_papers:
       url:   "/assets/papers/government_capacity.pdf"
       note: "Limits on a government’s capacity to enforce laws can result in multiple equilibria. If most agents comply, limited enforcement is sufficient to dissuade isolated agents from misbehaving. If most agents do not comply, overstretched enforcement capacity has a minimal impact on behavior. We study the extent to which divide-and-conquer enforcement strategies can help select a high compliance equilibrium in the presence of realistic compliance frictions. We study the role of information about the compliance of others both in theory and in lab experiments. As the number of agents gets large, theory indicates that providing information or not is irrelevant in equilibrium. In contrast, providing individualized information has a first order impact in experimental play by increasing convergence to equilibrium. This illustrates the value of out-of-equilibrium information design."
 
-
-    - title:   "Prior-Free Dynamic Allocation Under Limited Liability"
-      coauthors:  
-        - s_kapon
-      year:  2020
-      journal: "R&R, Theoretical Economics"
-      internal: True
-      url:   "/assets/papers/limited_liability_allocation.pdf"
-      note: "A principal seeks to efficiently allocate a productive public resource to a number of possible users. Vickrey-Clarke-Groves (VCG) mechanisms provide a detail-free way to do so provided users have deep pockets. In practice however, users may have limited resources. We study a dynamic allocation problem in which participants have limited liability: transfers are made ex post, and only if the productive efforts of participants are successful. We show that it is possible to approximate the performance of VCG using limited liability detail-free mechanisms that selectively ignore reports from participants who cannot make their promised payments. We emphasize the use of prior-free online optimization techniques to approximate aggregate incentive properties of VCG."
-
     - title:   "The Cost of Imbalance in Clinical Trials"
       coauthors:  
         - r_feng
@@ -86,6 +76,17 @@ working_papers:
       and  non-manipulable  ex  post  estimates  of  a  private provider’s gains from selection."
 
 pubs:
+
+    
+    - title:   "Prior-Free Dynamic Allocation Under Limited Liability"
+      coauthors:  
+        - s_kapon
+      year:  forthcoming
+      journal: "Theoretical Economics"
+      internal: True
+      url:   "/assets/papers/limited_liability_allocation.pdf"
+      note: "A principal seeks to efficiently allocate a productive public resource to a number of possible users. Vickrey-Clarke-Groves (VCG) mechanisms provide a detail-free way to do so provided users have deep pockets. In practice however, users may have limited resources. We study a dynamic allocation problem in which participants have limited liability: transfers are made ex post, and only if the productive efforts of participants are successful. We show that it is possible to approximate the performance of VCG using limited liability detail-free mechanisms that selectively ignore reports from participants who cannot make their promised payments. We emphasize the use of prior-free online optimization techniques to approximate aggregate incentive properties of VCG."
+
 
     - title:  "Robust Screens for Non-Competitive Bidding in Procurement Auctions"
       coauthors:  
