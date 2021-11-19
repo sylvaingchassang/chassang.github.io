@@ -37,7 +37,8 @@ working_papers:
         - k_kawai
         - j_nakabayashi
         - j_ortner
-      year:  2020
+      journal: "R&R, Review of Economic Studies"
+      year:  2021
       internal: True
       url:   "/assets/papers/regression_discontinuity.pdf"
       note: "Cartels participating in procurement auctions frequently use
