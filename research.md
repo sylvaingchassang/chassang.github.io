@@ -4,6 +4,17 @@ permalink: /research/
 title: Research
 working_papers: 
 
+    - title:   "Valuing the Time of the Self-Employed"
+      coauthors:  
+        - d_agness
+        - t_baseler
+        - p_dupas
+        - e_snowberg
+      year:  2021
+      internal: True
+      url:   "/assets/papers/value_of_time.pdf"
+      note: "How should we value the time of the self-employed when evaluating treatments that change labor supply?"
+
     - title:   "Making the Most of Limited Government Capacity: Theory and Experiment"
       coauthors:  
         - l_delcarpio
