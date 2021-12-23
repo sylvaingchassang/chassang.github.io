@@ -32,21 +32,6 @@ working_papers:
       internal: True
       url:   "/assets/papers/trial_balance.pdf"
       note: "This paper seeks to measure the cost of imbalance with respect to gender in a sample of roughly 2000 clinical studies. We document significant imbalance: 25% of experiments have at least 26% more men in one treatment arm than in the other. In addition, clinical trials with greater imbalance have more dispersed treatment effects, indicating that imbalance reduces the informativeness of experiments. A simple structural model suggests that for a typical experiment, using a balanced random design could deliver informativeness gains equivalent to increasing the sample size by 18%."
-      
-    - title:   "Using Bid Rotation and Incumbency to Detect Collusion: A
-     Regression Discontinuity Approach"
-      coauthors:  
-        - k_kawai
-        - j_nakabayashi
-        - j_ortner
-      journal: "R&R, Review of Economic Studies"
-      year:  2021
-      internal: True
-      url:   "/assets/papers/regression_discontinuity.pdf"
-      note: "Cartels participating in procurement auctions frequently use
-       bid rotation or incumbency priority to allocate market shares. However, establishing a tight link between observed allocation patterns and firm conduct has been difficult: there are cost-based
-         competitive explanations for such behavior. We show that by
-          focusing on the set of auctions in which the winning and losing bids are very close, it is possible to distinguish allocation patterns reflecting cost differences across firms from patterns reflecting non-competitive behavior. We apply our tests to two datasets: the sample of Ohio school milk auctions studied in Porter and Zona (1999), and a sample of municipal procurement auctions held in Japan."
 
     - title:   "Screening Adaptive Cartels"
       coauthors:  
@@ -75,11 +60,13 @@ working_papers:
       non-secure direct elicitation. Hard garbling provide durable 
       improvements in information transmission."
 
+pubs:
+
     - title: "Data-Driven Incentive Alignment in Capitation Schemes"  
       coauthors: 
         - m_braverman
-      year: 2020
-      journal: "R&R, Journal of Public Economics"
+      year: forthcoming
+      journal: "Journal of Public Economics"
       internal: True
       url:   "/assets/papers/strategic_capitation.pdf"
       note: "We ask whether Big Data, can reduce the cost of adverse selection in government-run capitation schemes.  
@@ -87,9 +74,23 @@ working_papers:
       Instead, data can be used to align incentives  by  forming  unbiased  
       and  non-manipulable  ex  post  estimates  of  a  private provider’s gains from selection."
 
-pubs:
 
+    - title:   "Using Bid Rotation and Incumbency to Detect Collusion: A
+     Regression Discontinuity Approach"
+      coauthors:  
+        - k_kawai
+        - j_nakabayashi
+        - j_ortner
+      journal: "Review of Economic Studies"
+      year:  forthcoming
+      internal: True
+      url:   "/assets/papers/regression_discontinuity.pdf"
+      note: "Cartels participating in procurement auctions frequently use
+       bid rotation or incumbency priority to allocate market shares. However, establishing a tight link between observed allocation patterns and firm conduct has been difficult: there are cost-based
+         competitive explanations for such behavior. We show that by
+          focusing on the set of auctions in which the winning and losing bids are very close, it is possible to distinguish allocation patterns reflecting cost differences across firms from patterns reflecting non-competitive behavior. We apply our tests to two datasets: the sample of Ohio school milk auctions studied in Porter and Zona (1999), and a sample of municipal procurement auctions held in Japan."
     
+
     - title:   "Prior-Free Dynamic Allocation Under Limited Liability"
       coauthors:  
         - s_kapon
