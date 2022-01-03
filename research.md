@@ -15,11 +15,11 @@ working_papers:
       url:   "/assets/papers/value_of_time.pdf"
       note: "How should we value the time of the self-employed when evaluating treatments that change labor supply?"
 
-    - title:   "Making the Most of Limited Government Capacity: Theory and Experiment"
+    - title:   "Using Divide and Conquer to Improve Tax Collection: Theory and Laboratory Evidence"
       coauthors:  
         - l_delcarpio
         - s_kapon
-      year:  2020
+      year:  2022
       internal: True
       url:   "/assets/papers/government_capacity.pdf"
       note: "Limits on a government’s capacity to enforce laws can result in multiple equilibria. If most agents comply, limited enforcement is sufficient to dissuade isolated agents from misbehaving. If most agents do not comply, overstretched enforcement capacity has a minimal impact on behavior. We study the extent to which divide-and-conquer enforcement strategies can help select a high compliance equilibrium in the presence of realistic compliance frictions. We study the role of information about the compliance of others both in theory and in lab experiments. As the number of agents gets large, theory indicates that providing information or not is irrelevant in equilibrium. In contrast, providing individualized information has a first order impact in experimental play by increasing convergence to equilibrium. This illustrates the value of out-of-equilibrium information design."
