@@ -146,7 +146,7 @@ pubs:
       coauthors: 
         - g_padro
       journal: Review of Economic Studies
-      year: 2018
+      year: 2019
       note: "In many organizational settings, promised anonymity provides potential whistleblowers with little protection. The number of 
       informed agents is small, and identifying information may be leaked. We show that an effective intervention policy must provide
       possible whistleblowers with plausible deniability by garbling their messages, and discuss how to evaluate policy experimentations
