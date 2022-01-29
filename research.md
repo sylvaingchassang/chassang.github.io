@@ -106,7 +106,7 @@ pubs:
         - k_kawai
         - j_nakabayashi
         - j_ortner
-      year:  forthcoming
+      year:  2022
       journal: "Econometrica"
       internal: True
       repo: https://github.com/sylvaingchassang/missing_bids
