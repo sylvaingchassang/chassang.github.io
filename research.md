@@ -65,7 +65,7 @@ pubs:
     - title: "Data-Driven Incentive Alignment in Capitation Schemes"  
       coauthors: 
         - m_braverman
-      year: forthcoming
+      year: 2022
       journal: "Journal of Public Economics"
       internal: True
       url:   "/assets/papers/strategic_capitation.pdf"
