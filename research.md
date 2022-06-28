@@ -39,7 +39,7 @@ working_papers:
         - k_kawai
         - j_nakabayashi
         - j_ortner
-      year:  2020
+      year:  2022
       internal: True
       url:   "/assets/papers/screening_adaptive_cartels.pdf"
       note: "We propose a theory of equilibrium antitrust oversight in which: (i) regulators
