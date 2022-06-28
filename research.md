@@ -33,14 +33,6 @@ working_papers:
       url:   "/assets/papers/jesus_maria.pdf"
       note: "In the context of collecting property taxes from 13432 households in a district of Lima (Peru), we investigate whether prioritized enforcement can improve the effective use of limited enforcement capacity. We randomly assign households to two treatment arms: one replicating the city’s usual collection policy, and one implementing a prioritized enforcement rule in which households are ordered according to a suitable rank and sequentially issued clear short-term promises of collection if they fail to make minimum tax payments. Raw findings show that prioritized enforcement improved tax collection by increasing tax revenue, and decreasing the number of costly collection actions taken. We identify an important friction ignored by existing theory: tax-payers’ response to incentives is slow, which changes the optimal management of collection promises. Finally, we estimate a model of tax-payer behavior and use it to produce counterfactual treatment estimates for other collection policies of interest. In particular, we estimate that, keeping the number of collection actions fixed, prioritized enforcement would increase tax revenue over 5 months by 11.3%."
 
-    - title:   "The Cost of Imbalance in Clinical Trials"
-      coauthors:  
-        - r_feng
-      journal: "R&R, Journal of Health Economics"
-      year:  2020
-      internal: True
-      url:   "/assets/papers/trial_balance.pdf"
-      note: "This paper seeks to measure the cost of imbalance with respect to gender in a sample of roughly 2000 clinical studies. We document significant imbalance: 25% of experiments have at least 26% more men in one treatment arm than in the other. In addition, clinical trials with greater imbalance have more dispersed treatment effects, indicating that imbalance reduces the informativeness of experiments. A simple structural model suggests that for a typical experiment, using a balanced random design could deliver informativeness gains equivalent to increasing the sample size by 18%."
 
     - title:   "Screening Adaptive Cartels"
       coauthors:  
@@ -58,8 +50,8 @@ working_papers:
     - title:   "Secure Survey Design in Organizations: Theory and Experiments"
       coauthors:
         - c_zehnder
-      year:  2019
-      journal: "R&R, The Economic Journal"
+      year:  2022
+      journal:
       internal: True
       url:   "/assets/papers/secure_survey_design.pdf"
       note: "We evaluate secure survey design techniques seeking to improve 

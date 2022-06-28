@@ -62,6 +62,14 @@ white_papers:
       year: 2020
       supp: "/assets/papers/opportunities_for_economists_2021_discussion.pdf"
       
+    - title:   "The Cost of Imbalance in Clinical Trials"
+      coauthors:  
+        - r_feng
+      year:  2020
+      internal: True
+      url:   "/assets/papers/trial_balance.pdf"
+      
+      
 ---
 <br>
 ## White Papers 
