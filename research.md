@@ -2,8 +2,16 @@
 layout: page
 permalink: /research/
 title: Research
-working_papers: 
-
+working_papers:
+    - title:   "Monitoring Harassment in Organizations"
+      coauthors:  
+        - l_boudreau
+        - a_gonzales
+        - r_heath
+      year:  2022
+      internal: True
+      url:   "/assets/papers/sensitive_stats.pdf"
+      
     - title:   "Valuing the Time of the Self-Employed"
       coauthors:  
         - d_agness
