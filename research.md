@@ -70,6 +70,14 @@ working_papers:
       improvements in information transmission."
 
 pubs:
+    - title: "Regulating Collusion"  
+      coauthors: 
+        - j_ortner
+      year: 2022
+      journal: "Annual Reviews of Economics"
+      internal: True
+      url:   "/assets/papers/annual_reviews_regulating_collusion.pdf"
+      note: "We attempt to provide a systemic view of the process of regulating collusion, including detection and prosecution, but also bargaining between firms and regulators via consent orders, the production of evidence, and containment measures that may be taken if collusion cannot be addressed in more direct means. In addition, we try to do justice to the peculiarities of the legal system: modeling the courts as they are, rather than as economists think they should be, is essential for economic analysis to improve the way collusion is regulated."
 
     - title: "Data-Driven Incentive Alignment in Capitation Schemes"  
       coauthors: 
