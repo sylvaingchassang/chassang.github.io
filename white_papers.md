@@ -68,6 +68,21 @@ white_papers:
       year:  2020
       internal: True
       url:   "/assets/papers/trial_balance.pdf"
+
+    - title:   "Allocating Suddenly Reduced Natural Gas and Energy Supplies"
+      coauthors:  
+        - m_brunnermeier
+      year:  2022
+      internal: True
+      url:   "/assets/papers/allocating_limited_energy_resources.pdf"
+
+    - title:   "Managing Energy Prices through Strategic Procurement"
+      coauthors:  
+        - m_brunnermeier
+        - j_ortner
+      year:  2022
+      internal: True
+      url:   "/assets/papers/organizing_a_joint_purchase_board.pdf"
       
       
 ---
