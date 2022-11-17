@@ -99,7 +99,7 @@ pubs:
         - j_nakabayashi
         - j_ortner
       journal: "Review of Economic Studies"
-      year:  forthcoming
+      year:  2022
       internal: True
       url:   "/assets/papers/regression_discontinuity.pdf"
       note: "Cartels participating in procurement auctions frequently use
@@ -111,7 +111,7 @@ pubs:
     - title:   "Prior-Free Dynamic Allocation Under Limited Liability"
       coauthors:  
         - s_kapon
-      year:  forthcoming
+      year:  2022
       journal: "Theoretical Economics"
       internal: True
       url:   "/assets/papers/limited_liability_allocation.pdf"
