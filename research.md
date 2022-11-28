@@ -24,6 +24,7 @@ working_papers:
       note: "How should we value the time of the self-employed when evaluating treatments that change labor supply?"
 
     - title:   "Using Divide and Conquer to Improve Tax Collection" 
+      coauthors:
         - l_delcarpio
         - s_kapon
       year:  2022
