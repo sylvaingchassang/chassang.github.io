@@ -23,24 +23,14 @@ working_papers:
       url:   "/assets/papers/value_of_time.pdf"
       note: "How should we value the time of the self-employed when evaluating treatments that change labor supply?"
 
-    - title:   "Using Divide and Conquer to Improve Tax Collection: Theory and Laboratory Evidence"
-      coauthors:  
-        - l_delcarpio
-        - s_kapon
-      year:  2022
-      internal: True
-      url:   "/assets/papers/government_capacity.pdf"
-      note: "We consider a government collecting taxes from a large number of tax-payers using limited enforcement capacity. Under random enforcement, limited capacity results in multiple equilibria: if most agents comply, limited enforcement is sufficient to dissuade individual misbehavior; if most agents do not comply, enforcement capacity is over-stretched and fails to dissuade misbehavior. In settings without behavioral frictions, prioritized enforcement strategies can implement high collection as the unique rationalizable outcome. Motivated by a field implementation opportunity, we investigate both theoretically and experimentally the extent to which this insight extends to environments with incomplete information and bounded rationality."
-      
-    - title:   "Using Divide and Conquer to Improve Tax Collection: Evidence from the Field"
-      coauthors:  
+    - title:   "Using Divide and Conquer to Improve Tax Collection" 
         - l_delcarpio
         - s_kapon
       year:  2022
       internal: True
       url:   "/assets/papers/jesus_maria.pdf"
-      note: "In the context of collecting property taxes from 13432 households in a district of Lima (Peru), we investigate whether prioritized enforcement can improve the effective use of limited enforcement capacity. We randomly assign households to two treatment arms: one replicating the city’s usual collection policy, and one implementing a prioritized enforcement rule in which households are ordered according to a suitable rank and sequentially issued clear short-term promises of collection if they fail to make minimum tax payments. Raw findings show that prioritized enforcement improved tax collection by increasing tax revenue, and decreasing the number of costly collection actions taken. We identify an important friction ignored by existing theory: tax-payers’ response to incentives is slow, which changes the optimal management of collection promises. Finally, we estimate a model of tax-payer behavior and use it to produce counterfactual treatment estimates for other collection policies of interest. In particular, we estimate that, keeping the number of collection actions fixed, prioritized enforcement would increase tax revenue over 5 months by 11.3%."
-
+      note: "Tax collection by capacity constrained governments may exhibit multiple equilibria: if delinquency is low, limited enforcement capacity is enough to discipline deviators; if delinquency is high, limited enforcement capacity is overstretched and no longer dissuasive. In principle, divide-and-conquer, a theoretically important but untested principle  from mechanism design, can be used to unravel the undesirable high-delinquency equilibrium. We investigate the challenge of doing so in practice."
+      supp: "/assets/papers/supplementary_materials_jesus_maria.pdf"
 
     - title:   "Screening Adaptive Cartels"
       coauthors:  
