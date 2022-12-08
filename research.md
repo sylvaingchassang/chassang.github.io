@@ -3,6 +3,13 @@ layout: page
 permalink: /research/
 title: Research
 working_papers:
+    - title:   "Designing Randomized Controlled Trials with External Validity in Mind"
+      coauthors:  
+        - s_kapon
+      year:  2022
+      internal: True
+      url:   "/assets/papers/designing_for_external_validity.pdf"   
+
     - title:   "Monitoring Harassment in Organizations"
       coauthors:  
         - l_boudreau
