@@ -2,43 +2,23 @@
 layout: page
 permalink: /white_papers/
 title: White Papers
-white_papers: 
+white_papers:
 
-    - url: "https://catalyst.nejm.org/three-part-pricing-drug-model/"
-      title: "A New Model for Pricing Drugs of Uncertain Efficacy"
-      coauthors:
-        - d_goldman
-        - k_vannuys
-        - w_cheng
-        - j_hlavka
-        - e_snowberg
-      year: 2018
-      journal: NEJM Catalyst
+    - title:   "Allocating Suddenly Reduced Natural Gas and Energy Supplies"
+      coauthors:  
+        - m_brunnermeier
+      year:  2022
+      internal: True
+      url:   "/assets/papers/allocating_limited_energy_resources.pdf"
 
-    - title: "Managing a Crypto-Currency Portfolio Via Minmax Drawdown Control"
-      year: 2019
-      url: "/assets/papers/crypto_portfolio_management.pdf"
+    - title:   "Managing Energy Prices through Strategic Procurement"
+      coauthors:  
+        - m_brunnermeier
+        - j_ortner
+      year:  2022
       internal: True
-      note: "An investor with correct beliefs should not experience large drawdowns, 
-      but how do we know our beliefs are correct? 
-      Minmax drawdown control is an asset allocation framework designed to guarantee low drawdowns against both safe and risky underlying assets. 
-      As such it is well suited to deal with novel, or changing assets, such as crypto-currencies." 
-      
-      
-    - title:   "Sustainable Reimbursements: Towards a Unified Framework for Pricing Drugs with Significant Uncertainties" 
-      url: "/assets/papers/sustainable_reimbursements.pdf"
-      internal: True
-      year: 2018
-      journal: "CESifo Working Paper Series No 6846"
-      coauthors:
-        - v_mantua
-        - e_snowberg
-        - e_xoxi
-        - l_pani
-      note: "We argue that two-price programs can help payers and pharmaceutical 
-      companies reduce finacial risk for both parties, while 
-      improving incentives for innovation."
-      
+      url:   "/assets/papers/organizing_a_joint_purchase_board.pdf"
+
     - title:   "Celestial Mechanics with Scratch: A Course for Incredibly Ambitious Kids" 
       url: "/assets/papers/celestial_mechanics.pdf"
       internal: True
@@ -69,21 +49,39 @@ white_papers:
       internal: True
       url:   "/assets/papers/trial_balance.pdf"
 
-    - title:   "Allocating Suddenly Reduced Natural Gas and Energy Supplies"
-      coauthors:  
-        - m_brunnermeier
-      year:  2022
+    - title: "Managing a Crypto-Currency Portfolio Via Minmax Drawdown Control"
+      year: 2019
+      url: "/assets/papers/crypto_portfolio_management.pdf"
       internal: True
-      url:   "/assets/papers/allocating_limited_energy_resources.pdf"
+      note: "An investor with correct beliefs should not experience large drawdowns, 
+      but how do we know our beliefs are correct? 
+      Minmax drawdown control is an asset allocation framework designed to guarantee low drawdowns against both safe and risky underlying assets. 
+      As such it is well suited to deal with novel, or changing assets, such as crypto-currencies." 
 
-    - title:   "Managing Energy Prices through Strategic Procurement"
-      coauthors:  
-        - m_brunnermeier
-        - j_ortner
-      year:  2022
+    - url: "https://catalyst.nejm.org/three-part-pricing-drug-model/"
+      title: "A New Model for Pricing Drugs of Uncertain Efficacy"
+      coauthors:
+        - d_goldman
+        - k_vannuys
+        - w_cheng
+        - j_hlavka
+        - e_snowberg
+      year: 2018
+      journal: NEJM Catalyst
+
+    - title:   "Sustainable Reimbursements: Towards a Unified Framework for Pricing Drugs with Significant Uncertainties" 
+      url: "/assets/papers/sustainable_reimbursements.pdf"
       internal: True
-      url:   "/assets/papers/organizing_a_joint_purchase_board.pdf"
-      
+      year: 2018
+      journal: "CESifo Working Paper Series No 6846"
+      coauthors:
+        - v_mantua
+        - e_snowberg
+        - e_xoxi
+        - l_pani
+      note: "We argue that two-price programs can help payers and pharmaceutical 
+      companies reduce finacial risk for both parties, while 
+      improving incentives for innovation."
       
 ---
 <br>
