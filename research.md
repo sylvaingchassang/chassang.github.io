@@ -35,6 +35,7 @@ working_papers:
         - l_delcarpio
         - s_kapon
       year:  2022
+      journal: "R&R, Quarterly Journal of Economics"
       internal: True
       url:   "/assets/papers/jesus_maria.pdf"
       note: "Tax collection by capacity constrained governments may exhibit multiple equilibria: if delinquency is low, limited enforcement capacity is enough to discipline deviators; if delinquency is high, limited enforcement capacity is overstretched and no longer dissuasive. In principle, divide-and-conquer, a theoretically important but untested principle  from mechanism design, can be used to unravel the undesirable high-delinquency equilibrium. We investigate the challenge of doing so in practice."
@@ -57,7 +58,7 @@ working_papers:
       coauthors:
         - c_zehnder
       year:  2022
-      journal:
+      journal: "R&R, AEJ: Microeconomics"
       internal: True
       url:   "/assets/papers/secure_survey_design.pdf"
       note: "We evaluate secure survey design techniques seeking to improve 
