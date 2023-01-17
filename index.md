@@ -16,7 +16,7 @@ Julis Romo Rabinowitz Building<br />
 Princeton, NJ 08544<br />
 [[email]][[linkedin]][[github]] <br /> <br />
 
-Research Associate NBER, CEPR
+Research Associate [NBER], [CEPR]
 Member of the [French Council of Economic Advisers]
 
 
