@@ -10,6 +10,6 @@
       {% endif %}{% if pub.journal %}*{{pub.journal}},* {% endif
 %}{{pub.year}} {% if pub.repo %} [[repo]({{pub.repo}})]{% endif %} {% if
 pub.supp %} [[supplementary materials]({{pub.supp | prepend:
-      site.baseurl}})]{% endif %}{% if pub.coverage %} [coverage: {{pub.coverage}}]{% endif %}
+      site.baseurl}})]{% endif %}{% if pub.coverage %} <br>{{pub.coverage}}{% endif %}
       {: style="margin-top:0px"}
 {% endfor %}
