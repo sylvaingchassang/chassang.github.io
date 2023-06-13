@@ -72,7 +72,7 @@ pubs:
     - title: "Regulating Collusion"  
       coauthors: 
         - j_ortner
-      year: forthcoming
+      year: 2023
       journal: "Annual Review of Economics"
       internal: True
       url:   "/assets/papers/annual_reviews_regulating_collusion.pdf"
