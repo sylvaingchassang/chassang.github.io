@@ -18,6 +18,7 @@ working_papers:
       year:  2022
       internal: True
       url:   "/assets/papers/sensitive_stats.pdf"
+      supp: "/assets/papers/sensitive_stats_sup_materials.pdf"
       
     - title:   "Valuing the Time of the Self-Employed"
       coauthors:  
