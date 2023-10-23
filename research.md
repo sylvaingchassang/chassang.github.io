@@ -27,6 +27,7 @@ working_papers:
         - p_dupas
         - e_snowberg
       year:  2022
+      journal: "R&R, Review of Economic Studies"
       internal: True
       url:   "/assets/papers/value_of_time.pdf"
       note: "How should we value the time of the self-employed when evaluating treatments that change labor supply?"
