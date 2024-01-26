@@ -182,10 +182,11 @@ pubs:
       information between agents and the monitors supposed to keep them honest. Theory 
       and prior-free identification results"
 
-    - url: "https://www.risk.net/journal-of-risk/5416616/mostly-prior-free-asset-allocation"
+    - url: "/assets/papers/priorFreePortfolios.pdf"   "
       title: "Mostly Prior-Free Portfolio Allocation"
       journal: Journal of Risk
       year: 2018
+      internal: True
       note: "An investor with correct beliefs would not experience large drawdowns. 
       But how can we guarantee that beliefs are correct. Finite hidden state space models 
       are inherently stubborn and can lead to large drawdowns. The paper shows how to compute
