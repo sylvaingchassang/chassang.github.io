@@ -182,7 +182,7 @@ pubs:
       information between agents and the monitors supposed to keep them honest. Theory 
       and prior-free identification results"
 
-    - url: "/assets/papers/priorFreePortfolios.pdf"   "
+    - url: "/assets/papers/priorFreePortfolios.pdf"
       title: "Mostly Prior-Free Portfolio Allocation"
       journal: Journal of Risk
       year: 2018
