@@ -56,11 +56,14 @@ working_papers:
       to the statistical screens used by regulators, and may in fact use
       them to enforce cartel compliance."
 
+
+pubs:
+
     - title:   "Secure Survey Design in Organizations: Theory and Experiments"
       coauthors:
         - c_zehnder
-      year:  2022
-      journal: "R&R, AEJ: Microeconomics"
+      year:  forthcoming
+      journal: "AEJ: Microeconomics"
       internal: True
       url:   "/assets/papers/secure_survey_design.pdf"
       note: "We evaluate secure survey design techniques seeking to improve 
@@ -68,9 +71,8 @@ working_papers:
       deviations from equilibrium make randomized response techniques 
       surprisingly effective although they are strategically equivalent to 
       non-secure direct elicitation. Hard garbling provide durable 
-      improvements in information transmission."
+      improvements in information transmission."  
 
-pubs:
     - title: "Regulating Collusion"  
       coauthors: 
         - j_ortner
