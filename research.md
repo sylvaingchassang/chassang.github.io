@@ -82,6 +82,23 @@ pubs:
       url:   "/assets/papers/annual_reviews_regulating_collusion.pdf"
       note: "We attempt to provide a systemic view of the process of regulating collusion, including detection and prosecution, but also bargaining between firms and regulators via consent orders, the production of evidence, and containment measures that may be taken if collusion cannot be addressed in more direct means. In addition, we try to do justice to the peculiarities of the legal system: modeling the courts as they are, rather than as economists think they should be, is essential for economic analysis to improve the way collusion is regulated."
 
+    - title:   "Using Bid Rotation and Incumbency to Detect Collusion: A 
+      Regression Discontinuity Approach"
+      coauthors:  
+        - k_kawai
+        - j_nakabayashi
+        - j_ortner
+      journal: "Review of Economic Studies"
+      year:  2023
+      internal: True
+      url:   "/assets/papers/regression_discontinuity.pdf"
+      note: "Cartels participating in procurement auctions frequently use
+       bid rotation or incumbency priority to allocate market shares. However, establishing a tight link between observed allocation patterns and firm conduct has been difficult: there are cost-based
+         competitive explanations for such behavior. We show that by
+          focusing on the set of auctions in which the winning and losing bids are very close, it is possible to distinguish allocation patterns reflecting cost differences across firms from patterns reflecting non-competitive behavior. We apply our tests to two datasets: the sample of Ohio school milk auctions studied in Porter and Zona (1999), and a sample of municipal procurement auctions held in Japan."
+    
+
+
     - title: "Data-Driven Incentive Alignment in Capitation Schemes"  
       coauthors: 
         - m_braverman
@@ -95,21 +112,6 @@ pubs:
       and  non-manipulable  ex  post  estimates  of  a  private provider’s gains from selection."
 
 
-    - title:   "Using Bid Rotation and Incumbency to Detect Collusion: A
-     Regression Discontinuity Approach"
-      coauthors:  
-        - k_kawai
-        - j_nakabayashi
-        - j_ortner
-      journal: "Review of Economic Studies"
-      year:  2022
-      internal: True
-      url:   "/assets/papers/regression_discontinuity.pdf"
-      note: "Cartels participating in procurement auctions frequently use
-       bid rotation or incumbency priority to allocate market shares. However, establishing a tight link between observed allocation patterns and firm conduct has been difficult: there are cost-based
-         competitive explanations for such behavior. We show that by
-          focusing on the set of auctions in which the winning and losing bids are very close, it is possible to distinguish allocation patterns reflecting cost differences across firms from patterns reflecting non-competitive behavior. We apply our tests to two datasets: the sample of Ohio school milk auctions studied in Porter and Zona (1999), and a sample of municipal procurement auctions held in Japan."
-    
 
     - title:   "Prior-Free Dynamic Allocation Under Limited Liability"
       coauthors:  
