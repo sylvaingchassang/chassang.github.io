@@ -3,6 +3,13 @@ layout: page
 permalink: /white_papers/
 title: White Papers
 white_papers:
+  
+    - title:   "Designing Randomized Controlled Trials with External Validity in Mind"
+      coauthors:  
+        - s_kapon
+      year:  2022
+      internal: True
+      url:   "/assets/papers/designing_for_external_validity.pdf"   
 
     - title:   "Allocating Suddenly Reduced Natural Gas and Energy Supplies"
       coauthors:  
