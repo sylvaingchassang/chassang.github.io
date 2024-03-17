@@ -32,17 +32,7 @@ working_papers:
       url:   "/assets/papers/value_of_time.pdf"
       note: "How should we value the time of the self-employed when evaluating treatments that change labor supply?"
 
-    - title:   "Using Divide and Conquer to Improve Tax Collection" 
-      coauthors:
-        - l_delcarpio
-        - s_kapon
-      year:  2022
-      journal: "R&R, Quarterly Journal of Economics"
-      internal: True
-      url:   "/assets/papers/jesus_maria.pdf"
-      note: "Tax collection by capacity constrained governments may exhibit multiple equilibria: if delinquency is low, limited enforcement capacity is enough to discipline deviators; if delinquency is high, limited enforcement capacity is overstretched and no longer dissuasive. In principle, divide-and-conquer, a theoretically important but untested principle  from mechanism design, can be used to unravel the undesirable high-delinquency equilibrium. We investigate the challenge of doing so in practice."
-      supp: "/assets/papers/supplementary_materials_jesus_maria.pdf"
-
+    
     - title:   "Screening Adaptive Cartels"
       coauthors:  
         - k_kawai
@@ -58,6 +48,17 @@ working_papers:
 
 
 pubs:
+
+    - title:   "Using Divide and Conquer to Improve Tax Collection" 
+      coauthors:
+        - l_delcarpio
+        - s_kapon
+      year:  forthcoming
+      journal: "Quarterly Journal of Economics"
+      internal: True
+      url:   "/assets/papers/jesus_maria.pdf"
+      note: "Tax collection by capacity constrained governments may exhibit multiple equilibria: if delinquency is low, limited enforcement capacity is enough to discipline deviators; if delinquency is high, limited enforcement capacity is overstretched and no longer dissuasive. In principle, divide-and-conquer, a theoretically important but untested principle  from mechanism design, can be used to unravel the undesirable high-delinquency equilibrium. We investigate the challenge of doing so in practice."
+      supp: "/assets/papers/supplementary_materials_jesus_maria.pdf"
 
     - title:   "Secure Survey Design in Organizations: Theory and Experiments"
       coauthors:
