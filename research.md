@@ -9,7 +9,7 @@ working_papers:
         - l_boudreau
         - a_gonzales
         - r_heath
-      year:  2022
+      year:  2024
       internal: True
       url:   "/assets/papers/sensitive_stats.pdf"
       supp: "/assets/papers/sensitive_stats_sup_materials.pdf"
@@ -20,7 +20,7 @@ working_papers:
         - t_baseler
         - p_dupas
         - e_snowberg
-      year:  2022
+      year:  2024
       journal: "conditionally accepted, Review of Economic Studies"
       internal: True
       url:   "/assets/papers/value_of_time.pdf"
@@ -32,7 +32,7 @@ working_papers:
         - k_kawai
         - j_nakabayashi
         - j_ortner
-      year:  2022
+      year:  2023
       internal: True
       url:   "/assets/papers/screening_adaptive_cartels.pdf"
       note: "We propose a theory of equilibrium antitrust oversight in which: (i) regulators
