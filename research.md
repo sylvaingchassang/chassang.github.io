@@ -14,18 +14,6 @@ working_papers:
       url:   "/assets/papers/sensitive_stats.pdf"
       supp: "/assets/papers/sensitive_stats_sup_materials.pdf"
       
-    - title:   "Valuing the Time of the Self-Employed"
-      coauthors:  
-        - d_agness
-        - t_baseler
-        - p_dupas
-        - e_snowberg
-      year:  2024
-      journal: "conditionally accepted, Review of Economic Studies"
-      internal: True
-      url:   "/assets/papers/value_of_time.pdf"
-      note: "How should we value the time of the self-employed when evaluating treatments that change labor supply?"
-
     
     - title:   "Screening Adaptive Cartels"
       coauthors:  
@@ -42,6 +30,19 @@ working_papers:
 
 
 pubs:
+
+    - title:   "Valuing the Time of the Self-Employed"
+      coauthors:  
+        - d_agness
+        - t_baseler
+        - p_dupas
+        - e_snowberg
+      year:  2025
+      journal: "Review of Economic Studies"
+      internal: True
+      url:   "/assets/papers/value_of_time.pdf"
+      note: "How should we value the time of the self-employed when evaluating treatments that change labor supply?"
+
 
     - title:   "Using Divide and Conquer to Improve Tax Collection" 
       coauthors:
