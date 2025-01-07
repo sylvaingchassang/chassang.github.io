@@ -48,7 +48,7 @@ pubs:
       coauthors:
         - l_delcarpio
         - s_kapon
-      year:  forthcoming
+      year:  2024
       journal: "Quarterly Journal of Economics"
       internal: True
       url:   "/assets/papers/jesus_maria.pdf"
@@ -58,7 +58,7 @@ pubs:
     - title:   "Secure Survey Design in Organizations: Theory and Experiments"
       coauthors:
         - c_zehnder
-      year:  forthcoming
+      year:  2024
       journal: "AEJ: Microeconomics"
       internal: True
       url:   "/assets/papers/secure_survey_design.pdf"
