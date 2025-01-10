@@ -86,6 +86,7 @@ pubs:
         - j_ortner
       journal: "Review of Economic Studies"
       year:  2023
+      coverage: Winner of the Association of Competition Economics Best Paper Award, 2024
       internal: True
       url:   "/assets/papers/regression_discontinuity.pdf"
       note: "Cartels participating in procurement auctions frequently use
