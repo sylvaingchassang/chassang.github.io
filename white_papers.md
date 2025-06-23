@@ -4,11 +4,6 @@ permalink: /white_papers/
 title: White Papers
 white_papers:
 
-    - title: "Véhicule électrique : ne pas manquer l'occasion, Note Numero 85 du Conseil d'Analyse Économique"
-      year: 2025
-      url: "https://monplanauto.org"
-      coverage: [Mon Plan Auto](https://monplanauto.org)
-  
     - title:   "Designing Randomized Controlled Trials with External Validity in Mind"
       coauthors:  
         - s_kapon
