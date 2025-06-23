@@ -4,6 +4,11 @@ permalink: /white_papers/
 title: White Papers
 white_papers:
 
+    - url: "https://monplanauto.org"
+      title: "Vehicule electrique: ne pas rater l'occasion"
+      year: 2025
+      journal: Note du CAE no 85
+
     - title:   "Designing Randomized Controlled Trials with External Validity in Mind"
       coauthors:  
         - s_kapon
