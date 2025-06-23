@@ -4,7 +4,7 @@ permalink: /white_papers/
 title: White Papers
 white_papers:
 
-    - title: "Véhicule électrique : ne pas manquer l'occasion", Note Numero 85 du Conseil d'Analyse Économique
+    - title: "Véhicule électrique : ne pas manquer l'occasion, Note Numero 85 du Conseil d'Analyse Économique"
       year: 2025
       internal: False
       url: "https://monplanauto.org"
